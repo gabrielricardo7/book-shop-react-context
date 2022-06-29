@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "author": "Gabriel Ricardo <gabrielricardo7@gmail.com>",
   "license": "MIT",
-  "engines": {
-    "node": "16.14.x"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
